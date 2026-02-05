@@ -1,5 +1,0 @@
-<map id="calculateTotalSolar" name="calculateTotalSolar">
-<area shape="rect" id="Node000001" title="sums all solar radiation values in a vector and converts to kWh" alt="" coords="5,5,137,31"/>
-<area shape="rect" id="Node000002" href="$class_vector.html#a0151d4cb23bc2c5474418beb125829ca" title="Gets how many actual items are stored in the vector right now." alt="" coords="185,5,300,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,15,172,15,172,21,137,21"/>
-</map>

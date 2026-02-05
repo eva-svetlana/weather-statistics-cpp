@@ -1,6 +1,0 @@
-<map id="BST::PreOrder" name="BST::PreOrder">
-<area shape="rect" id="Node000001" title="Pre&#45;order traversal (root, left, right)." alt="" coords="160,29,267,55"/>
-<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="240,19,232,11,213,8,197,10,189,15,187,20,192,28,187,31,182,21,185,11,196,5,213,3,235,6,244,15"/>
-<area shape="rect" id="Node000002" href="$class_b_s_t.html#a72572a86c814ee7e31b38d30e4ef8d70" title="Helper for pre&#45;order traversal in subtree." alt="" coords="5,29,112,55"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,45,112,45,112,39,146,39"/>
-</map>

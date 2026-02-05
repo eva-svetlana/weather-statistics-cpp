@@ -1,7 +1,0 @@
-<map id="Menu::hasData" name="Menu::hasData">
-<area shape="rect" id="Node000001" title="checks if records exist for a particular month/year or option." alt="" coords="5,31,116,56"/>
-<area shape="rect" id="Node000002" href="$class_vector.html#a0151d4cb23bc2c5474418beb125829ca" title="Gets how many actual items are stored in the vector right now." alt="" coords="173,5,287,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,32,159,26,159,31,117,38"/>
-<area shape="rect" id="Node000003" href="$class_menu.html#afdad90edea5efb22e5ef6ed9bb310efd" title="Returns the name of a month given its number." alt="" coords="164,55,296,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,48,151,53,150,59,116,54"/>
-</map>

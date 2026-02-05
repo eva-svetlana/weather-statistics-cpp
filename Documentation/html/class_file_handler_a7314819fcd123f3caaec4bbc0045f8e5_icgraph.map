@@ -1,7 +1,0 @@
-<map id="FileHandler::parseCSV" name="FileHandler::parseCSV">
-<area shape="rect" id="Node000001" title="Parses a single CSV file into the BST and dataMap." alt="" coords="327,5,481,31"/>
-<area shape="rect" id="Node000002" href="$class_file_handler.html#a88dce71a81139c2dc84f4944d2ccb7dd" title="Loads weather data files into the BST and dataMap." alt="" coords="104,5,279,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,21,279,21,279,15,313,15"/>
-<area shape="rect" id="Node000003" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,56,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,21,57,21,57,15,90,15"/>
-</map>

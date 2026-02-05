@@ -1,7 +1,0 @@
-<map id="pearson" name="pearson">
-<area shape="rect" id="Node000001" title="Calculates Pearson correlation coefficient between two vectors." alt="" coords="5,31,73,56"/>
-<area shape="rect" id="Node000002" href="$class_vector.html#a0151d4cb23bc2c5474418beb125829ca" title="Gets how many actual items are stored in the vector right now." alt="" coords="121,5,236,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,35,107,28,108,34,74,40"/>
-<area shape="rect" id="Node000003" href="$_statistics_8h.html#adc13bc610c4b7a9dbc938dcdc5bd54c0" title="Rounds a value to n decimal places." alt="" coords="139,55,218,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="74,46,126,56,125,61,73,52"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Vector::Vector" name="Vector::Vector">
-<area shape="rect" id="Node000001" title="Copy constructor — makes a new vector as a full copy of another." alt="" coords="5,5,112,31"/>
-<area shape="rect" id="Node000002" href="$class_vector.html#aa5af234cb297268651f2de7f56e045e9" title="Creates an empty vector with space for at least n items." alt="" coords="160,5,267,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,15,146,15,146,21,112,21"/>
-</map>

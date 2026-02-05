@@ -1,7 +1,0 @@
-<map id="FileHandler::printTime" name="FileHandler::printTime">
-<area shape="rect" id="Node000001" title="Prints a MyTime to an output stream as HH:MM." alt="" coords="5,31,153,56"/>
-<area shape="rect" id="Node000002" href="$class_my_time.html#a0cd9e282faa3d123040027cd5049a407" title="Gets the hour component." alt="" coords="207,5,331,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,31,193,25,194,31,154,36"/>
-<area shape="rect" id="Node000003" href="$class_my_time.html#af2e9884fb159ca6dd19d61617a491a75" title="Gets the minute component." alt="" coords="201,55,337,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,50,188,54,187,60,153,55"/>
-</map>
