@@ -1,0 +1,12 @@
+<map id="Vector.h" name="Vector.h">
+<area shape="rect" id="node1" title="Templated dynamic array with auto growing and simple operations, minimal and completed." alt="" coords="153,5,223,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html" title=" " alt="" coords="5,304,80,331"/>
+<area shape="rect" id="node3" href="$_data_utils_8cpp.html" title=" " alt="" coords="37,229,137,256"/>
+<area shape="rect" id="node4" href="$_weather_entry_8h.html" title="A single weather measurement and a type alias for logs of weather data." alt="" coords="85,80,198,107"/>
+<area shape="rect" id="node6" href="$_menu_8h.html" title="Defines menu presentation and user interaction logic for the Weather App." alt="" coords="170,229,235,256"/>
+<area shape="rect" id="node8" href="$_file_handler_8h.html" title="Handles CSV file input and output, user input prompts, and parsing of weather data fields." alt="" coords="336,155,435,181"/>
+<area shape="rect" id="node10" href="$_statistics_8h.html" title="Some basic statistics functions for working with vectors in this assignment." alt="" coords="273,80,361,107"/>
+<area shape="rect" id="node5" href="$_data_utils_8h.html" title="Utility functions for filtering, extracting, and manipulating weather data collections." alt="" coords="73,155,159,181"/>
+<area shape="rect" id="node7" href="$_menu_8cpp.html" title=" " alt="" coords="163,304,242,331"/>
+<area shape="rect" id="node9" href="$_file_handler_8cpp.html" title=" " alt="" coords="329,229,441,256"/>
+</map>

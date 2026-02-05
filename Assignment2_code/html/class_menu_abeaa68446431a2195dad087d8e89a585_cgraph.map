@@ -1,0 +1,4 @@
+<map id="Menu::showCorrelations" name="Menu::showCorrelations">
+<area shape="rect" id="node1" title="Calculates and displays Pearson correlations between parameters for given month." alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node2" href="$class_file_handler.html#af4b28b75d363b146b4a125774f71f6be" title="Prompts the user for a month (1&#45;12), with validation." alt="" coords="215,5,385,32"/>
+</map>

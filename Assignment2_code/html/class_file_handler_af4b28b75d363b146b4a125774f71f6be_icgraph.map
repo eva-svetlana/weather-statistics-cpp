@@ -1,0 +1,5 @@
+<map id="FileHandler::promptMonth" name="FileHandler::promptMonth">
+<area shape="rect" id="node1" title="Prompts the user for a month (1&#45;12), with validation." alt="" coords="215,31,385,57"/>
+<area shape="rect" id="node2" href="$class_menu.html#abeaa68446431a2195dad087d8e89a585" title="Calculates and displays Pearson correlations between parameters for given month." alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node3" href="$class_menu.html#a9754e55712f1e6d70925232c9fe843f4" title="Displays wind statistics (average and std dev) for user&#45;selected month/year." alt="" coords="9,56,163,83"/>
+</map>

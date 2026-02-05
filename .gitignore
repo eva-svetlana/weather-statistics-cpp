@@ -1,0 +1,18 @@
+# Code::Blocks
+*.layout
+*.depend
+
+# Build directories
+bin/
+obj/
+
+# Executables
+*.exe
+*.dll
+
+# Archives
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db

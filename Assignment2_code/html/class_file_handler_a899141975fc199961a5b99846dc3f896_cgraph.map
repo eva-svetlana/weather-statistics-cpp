@@ -1,0 +1,6 @@
+<map id="FileHandler::readDate" name="FileHandler::readDate">
+<area shape="rect" id="node1" title="Reads a Date from an input stream in day/month/year format." alt="" coords="5,56,152,83"/>
+<area shape="rect" id="node2" href="$class_date.html#a7b6f3262997530ea44b84dc1ff818690" title="Sets the day component. Range&#45;checked." alt="" coords="207,5,307,32"/>
+<area shape="rect" id="node3" href="$class_date.html#aa7814f6054a688039338ac1190d74a8d" title="Sets the month component. Range&#45;checked." alt="" coords="200,56,313,83"/>
+<area shape="rect" id="node4" href="$class_date.html#a795790fc0cde4220ceaf13b5ce232e4a" title="Sets the year component." alt="" coords="205,107,309,133"/>
+</map>

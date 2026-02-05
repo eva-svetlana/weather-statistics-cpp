@@ -1,0 +1,12 @@
+<map id="FileHandler.h" name="FileHandler.h">
+<area shape="rect" id="node1" title="Handles CSV file input and output, user input prompts, and parsing of weather data fields." alt="" coords="259,5,358,32"/>
+<area shape="rect" id="node2" href="$_date_8h.html" title="Class representing a basic calendar date with day, month, and year." alt="" coords="5,155,65,181"/>
+<area shape="rect" id="node3" href="$_my_time_8h.html" title="Class representing time as hour and minute with basic accessors and validation." alt="" coords="107,155,185,181"/>
+<area shape="rect" id="node4" href="$_vector_8h.html" title="Templated dynamic array with auto growing and simple operations, minimal and completed." alt="" coords="227,155,297,181"/>
+<area shape="rect" id="node6" href="$_weather_entry_8h.html" title="A single weather measurement and a type alias for logs of weather data." alt="" coords="73,80,187,107"/>
+<area shape="rect" id="node7" href="$_b_s_t_8h.html" title="Templated BST Binary Search Tree with full set of operations (insert, search, traversal,..." alt="" coords="313,80,371,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="373,155,445,181"/>
+<area shape="rect" id="node9" title=" " alt="" coords="447,80,501,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="525,80,572,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="259,229,337,256"/>
+</map>

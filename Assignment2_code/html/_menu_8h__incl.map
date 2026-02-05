@@ -1,0 +1,17 @@
+<map id="Menu.h" name="Menu.h">
+<area shape="rect" id="node1" title="Defines menu presentation and user interaction logic for the Weather App." alt="" coords="497,5,563,32"/>
+<area shape="rect" id="node2" href="$_file_handler_8h.html" title="Handles CSV file input and output, user input prompts, and parsing of weather data fields." alt="" coords="206,80,305,107"/>
+<area shape="rect" id="node5" href="$_vector_8h.html" title="Templated dynamic array with auto growing and simple operations, minimal and completed." alt="" coords="535,229,605,256"/>
+<area shape="rect" id="node7" href="$_weather_entry_8h.html" title="A single weather measurement and a type alias for logs of weather data." alt="" coords="120,155,233,181"/>
+<area shape="rect" id="node8" href="$_b_s_t_8h.html" title="Templated BST Binary Search Tree with full set of operations (insert, search, traversal,..." alt="" coords="359,155,418,181"/>
+<area shape="rect" id="node9" title=" " alt="" coords="426,229,498,256"/>
+<area shape="rect" id="node10" title=" " alt="" coords="443,155,497,181"/>
+<area shape="rect" id="node11" title=" " alt="" coords="521,155,568,181"/>
+<area shape="rect" id="node12" href="$_statistics_8h.html" title="Some basic statistics functions for working with vectors in this assignment." alt="" coords="694,155,782,181"/>
+<area shape="rect" id="node14" href="$_data_utils_8h.html" title="Utility functions for filtering, extracting, and manipulating weather data collections." alt="" coords="380,80,467,107"/>
+<area shape="rect" id="node15" title=" " alt="" coords="745,80,811,107"/>
+<area shape="rect" id="node3" href="$_date_8h.html" title="Class representing a basic calendar date with day, month, and year." alt="" coords="133,229,193,256"/>
+<area shape="rect" id="node4" href="$_my_time_8h.html" title="Class representing time as hour and minute with basic accessors and validation." alt="" coords="5,229,84,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="531,304,609,331"/>
+<area shape="rect" id="node13" title=" " alt="" coords="642,229,701,256"/>
+</map>

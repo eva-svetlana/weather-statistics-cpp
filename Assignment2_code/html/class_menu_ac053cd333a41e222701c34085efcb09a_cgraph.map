@@ -1,0 +1,4 @@
+<map id="Menu::showTempStats" name="Menu::showTempStats">
+<area shape="rect" id="node1" title="Displays temperature statistics for each month in a user&#45;specified year." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$class_file_handler.html#a1756d4a874ef689c36ecdc73ee46d601" title="Prompts the user for a year, with validation." alt="" coords="208,5,371,32"/>
+</map>
