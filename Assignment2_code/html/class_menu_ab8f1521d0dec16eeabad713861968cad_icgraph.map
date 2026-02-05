@@ -1,4 +1,0 @@
-<map id="Menu::printMenu" name="Menu::printMenu">
-<area shape="rect" id="node1" title="Prints the main program menu for user selection." alt="" coords="133,5,252,32"/>
-<area shape="rect" id="node2" href="$class_menu.html#aa1e51d027b64963675b3feda589bea89" title="Runs the main loop for the menu/user interface." alt="" coords="5,5,85,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Menu::showWindStats" name="Menu::showWindStats">
-<area shape="rect" id="node1" title="Displays wind statistics (average and std dev) for user&#45;selected month/year." alt="" coords="5,31,159,57"/>
-<area shape="rect" id="node2" href="$class_file_handler.html#af4b28b75d363b146b4a125774f71f6be" title="Prompts the user for a month (1&#45;12), with validation." alt="" coords="207,5,377,32"/>
-<area shape="rect" id="node3" href="$class_file_handler.html#a1756d4a874ef689c36ecdc73ee46d601" title="Prompts the user for a year, with validation." alt="" coords="211,56,373,83"/>
-</map>

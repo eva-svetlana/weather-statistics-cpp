@@ -1,0 +1,9 @@
+<map id="extractSolarRadiation" name="extractSolarRadiation">
+<area shape="rect" id="Node000001" title="Extracts valid solar radiation values &gt;= 100 from records." alt="" coords="5,31,152,56"/>
+<area shape="rect" id="Node000002" href="$class_vector.html#a0151d4cb23bc2c5474418beb125829ca" title="Gets how many actual items are stored in the vector right now." alt="" coords="206,5,321,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,31,192,25,193,30,153,36"/>
+<area shape="rect" id="Node000003" href="$class_vector.html#a4a5affb292fcde8043fda8955da8ae4d" title="Adds a new item to the end of the vector. resizes storage if needed." alt="" coords="200,55,327,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,50,187,55,186,60,152,56"/>
+<area shape="rect" id="Node000004" href="$class_vector.html#adb4ad00bb6e1c792390c16c4458e45e5" title="Doubles the vector&#39;s capacity when there isn&#39;t enough space." alt="" coords="375,55,477,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="327,65,361,65,361,70,327,70"/>
+</map>

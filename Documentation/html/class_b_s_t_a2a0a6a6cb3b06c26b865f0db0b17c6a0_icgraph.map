@@ -1,0 +1,8 @@
+<map id="BST::copy" name="BST::copy">
+<area shape="rect" id="Node000001" title="Helper to deep copy a subtree." alt="" coords="164,31,247,56"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="230,20,223,12,205,9,190,11,183,16,181,22,185,29,181,32,176,22,178,13,189,6,205,4,225,8,234,16"/>
+<area shape="rect" id="Node000002" href="$class_b_s_t.html#a8b6725d5feffbcafcceae78576bf4e6b" title="Copy constructor for deep copy." alt="" coords="21,5,101,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,36,100,28,101,22,151,31"/>
+<area shape="rect" id="Node000003" href="$class_b_s_t.html#aac6d87f00443dc6680cbd6c5650cabd3" title="Assignment operator (deep copy/cleanup)" alt="" coords="5,55,116,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="151,55,117,61,116,56,150,50"/>
+</map>

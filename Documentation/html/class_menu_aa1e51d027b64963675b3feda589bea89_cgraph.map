@@ -1,0 +1,88 @@
+<map id="Menu::run" name="Menu::run">
+<area shape="rect" id="Node000001" title="Runs the main loop for the menu/user interface." alt="" coords="5,508,85,533"/>
+<area shape="rect" id="Node000002" href="$class_menu.html#a993f96d2dc513adf706c5408699b5299" title="Handles user interaction and calls the writetofile operation." alt="" coords="133,408,300,433"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,506,89,475,132,444,149,436,151,441,135,448,92,479,60,510"/>
+<area shape="rect" id="Node000018" href="$class_menu.html#ab8f1521d0dec16eeabad713861968cad" title="Prints the main program menu for user selection." alt="" coords="157,457,276,483"/>
+<area shape="poly" id="edge28_Node000001_Node000018" title=" " alt="" coords="85,506,159,484,160,489,86,512"/>
+<area shape="rect" id="Node000019" href="$class_menu.html#abeaa68446431a2195dad087d8e89a585" title="Calculates and displays Pearson correlations between parameters for given month." alt="" coords="531,836,692,861"/>
+<area shape="poly" id="edge29_Node000001_Node000019" title=" " alt="" coords="64,531,135,582,258,658,382,727,573,827,571,832,380,732,255,662,132,587,61,536"/>
+<area shape="rect" id="Node000026" href="$class_menu.html#ac053cd333a41e222701c34085efcb09a" title="Displays temperature statistics for each month in a user&#45;specified year." alt="" coords="534,457,689,483"/>
+<area shape="poly" id="edge43_Node000001_Node000026" title=" " alt="" coords="85,515,520,475,520,481,86,520"/>
+<area shape="rect" id="Node000027" href="$class_menu.html#a9754e55712f1e6d70925232c9fe843f4" title="Displays wind statistics (average and std dev) for user&#45;selected month/year." alt="" coords="535,609,688,635"/>
+<area shape="poly" id="edge51_Node000001_Node000027" title=" " alt="" coords="86,528,203,557,348,587,522,611,521,616,348,593,202,562,85,534"/>
+<area shape="rect" id="Node000003" href="$class_file_handler.html#a1756d4a874ef689c36ecdc73ee46d601" title="Prompts the user for a year, with validation." alt="" coords="744,559,907,584"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="261,431,301,443,415,487,465,506,531,525,634,545,730,559,730,564,633,551,530,530,464,511,414,492,299,449,259,436"/>
+<area shape="rect" id="Node000004" href="$class_menu.html#a9235d9a7e79ccea64b0db3f44c78865d" title="Writes statistics for all months of a specified year to a file." alt="" coords="348,408,483,433"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="301,418,334,418,334,423,301,423"/>
+<area shape="rect" id="Node000005" href="$_data_utils_8cpp.html#a11f805d01d8662f2e365cb14f735f82f" title="Get all records for a specific year/month combination." alt="" coords="742,509,909,535"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="433,431,475,463,502,480,532,493,581,507,632,515,728,522,728,528,631,521,579,512,530,498,500,485,472,468,429,436"/>
+<area shape="rect" id="Node000007" href="$class_menu.html#aed3ec21bbcd9f106e1ed7cfb9ee94c27" title="Writes statistics for a single month to the supplied file." alt="" coords="533,231,689,256"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="429,406,584,264,588,268,432,410"/>
+<area shape="rect" id="Node000006" href="$class_b_s_t.html#a4e055c1a89b5a7223a15f5765f08b5a1" title="In&#45;order traversal (left, root, right)." alt="" coords="976,849,1073,875"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="894,533,912,545,928,564,938,581,947,616,951,653,961,697,1015,835,1010,837,956,699,946,654,942,617,934,583,924,567,909,549,891,537"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="996,851,990,841,993,831,1005,825,1025,823,1048,826,1058,835,1055,839,1046,831,1025,828,1007,830,997,835,995,840,1001,848"/>
+<area shape="poly" id="edge20_Node000007_Node000005" title=" " alt="" coords="622,255,669,335,704,387,742,438,801,498,797,502,738,441,699,390,665,337,618,258"/>
+<area shape="rect" id="Node000008" href="$_data_utils_8cpp.html#afff8cc09eb8726ef4e2d0ab7412ba70e" title="sums all solar radiation values in a vector and converts to kWh" alt="" coords="959,5,1091,31"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="614,230,629,192,654,142,690,90,713,67,739,48,788,25,842,12,896,7,944,7,944,12,896,12,843,17,790,30,741,52,716,71,694,93,658,145,633,195,619,232"/>
+<area shape="rect" id="Node000009" href="$class_vector.html#a0151d4cb23bc2c5474418beb125829ca" title="Gets how many actual items are stored in the vector right now." alt="" coords="1139,284,1253,309"/>
+<area shape="poly" id="edge21_Node000007_Node000009" title=" " alt="" coords="616,229,633,199,660,161,695,122,716,106,739,93,785,79,823,79,862,86,911,93,964,92,1007,89,1048,94,1069,103,1092,119,1107,133,1116,148,1122,178,1126,210,1131,227,1141,244,1168,273,1164,277,1137,248,1126,229,1121,211,1117,179,1111,150,1103,136,1089,123,1067,108,1047,99,1007,94,964,97,911,98,861,91,823,84,786,84,741,98,719,110,699,126,664,164,638,202,621,232"/>
+<area shape="rect" id="Node000010" href="$_data_utils_8cpp.html#a4b52c4e03cb131de0b899e7b39526027" title="Extracts valid solar radiation values &gt;= 100 from records." alt="" coords="752,107,899,132"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="624,229,672,187,704,163,739,142,757,134,759,139,741,147,707,167,675,191,627,233"/>
+<area shape="rect" id="Node000013" href="$_data_utils_8cpp.html#a24bceaa3baedc33767e5463d087417e3" title="Extracts air temperatures from weather records." alt="" coords="755,156,896,181"/>
+<area shape="poly" id="edge14_Node000007_Node000013" title=" " alt="" coords="643,228,739,191,766,183,767,188,741,197,645,233"/>
+<area shape="rect" id="Node000014" href="$_data_utils_8cpp.html#a0418a5f5e9057490e657c9ee4c35e7d7" title="Extracts wind speeds from a set of weather records." alt="" coords="757,205,893,231"/>
+<area shape="poly" id="edge17_Node000007_Node000014" title=" " alt="" coords="689,231,744,225,744,230,690,237"/>
+<area shape="rect" id="Node000015" href="$_statistics_8h.html#a5f136e6bc55c307240c4caaef1eae875" title="Finds the mean (average) of all the real (non&#45;NaN) values in your vector." alt="" coords="997,309,1052,335"/>
+<area shape="poly" id="edge22_Node000007_Node000015" title=" " alt="" coords="680,253,984,312,983,317,679,259"/>
+<area shape="rect" id="Node000016" href="$class_menu.html#afdad90edea5efb22e5ef6ed9bb310efd" title="Returns the name of a month given its number." alt="" coords="959,660,1091,685"/>
+<area shape="poly" id="edge24_Node000007_Node000016" title=" " alt="" coords="622,255,668,320,702,359,742,393,765,407,787,415,828,421,868,430,890,440,912,456,953,501,983,554,1005,604,1019,645,1014,647,1000,606,978,556,948,505,909,460,887,444,867,435,827,427,785,420,763,412,738,398,698,363,663,323,618,258"/>
+<area shape="rect" id="Node000017" href="$_statistics_8h.html#a59086020f5ca1493c1500ea230768c37" title="Computes the sample standard deviation for your vector (skips NaN values)." alt="" coords="799,357,851,383"/>
+<area shape="poly" id="edge25_Node000007_Node000017" title=" " alt="" coords="635,254,792,348,789,352,633,258"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1067,29,1093,48,1109,74,1118,99,1121,145,1122,192,1128,217,1141,245,1166,273,1162,277,1136,247,1123,219,1117,193,1116,145,1113,100,1105,77,1089,52,1064,33"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="899,112,945,114,996,121,1046,136,1092,160,1111,179,1120,200,1127,221,1141,244,1169,273,1165,277,1137,248,1122,223,1115,202,1107,182,1089,164,1044,141,995,126,945,119,899,117"/>
+<area shape="rect" id="Node000011" href="$class_vector.html#a4a5affb292fcde8043fda8955da8ae4d" title="Adds a new item to the end of the vector. resizes storage if needed." alt="" coords="961,208,1088,233"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="879,130,912,142,959,169,998,197,995,202,956,174,910,147,877,135"/>
+<area shape="rect" id="Node000012" href="$class_vector.html#adb4ad00bb6e1c792390c16c4458e45e5" title="Doubles the vector&#39;s capacity when there isn&#39;t enough space." alt="" coords="1145,208,1247,233"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1088,218,1131,218,1131,223,1088,223"/>
+<area shape="poly" id="edge15_Node000013_Node000009" title=" " alt="" coords="896,161,942,161,992,166,1043,176,1092,194,1108,205,1119,217,1141,244,1171,272,1167,276,1137,248,1115,220,1105,209,1089,199,1042,181,991,171,941,167,896,166"/>
+<area shape="poly" id="edge16_Node000013_Node000011" title=" " alt="" coords="875,179,963,202,962,207,874,184"/>
+<area shape="poly" id="edge18_Node000014_Node000009" title=" " alt="" coords="887,228,1125,279,1124,284,886,233"/>
+<area shape="poly" id="edge19_Node000014_Node000011" title=" " alt="" coords="894,216,948,217,948,222,894,222"/>
+<area shape="poly" id="edge23_Node000015_Node000009" title=" " alt="" coords="1052,315,1125,304,1126,310,1053,321"/>
+<area shape="poly" id="edge26_Node000017_Node000009" title=" " alt="" coords="852,368,957,366,1024,358,1090,345,1127,331,1161,314,1163,319,1129,336,1091,350,1024,364,957,371,852,374"/>
+<area shape="poly" id="edge27_Node000017_Node000015" title=" " alt="" coords="851,361,983,329,984,334,852,367"/>
+<area shape="poly" id="edge32_Node000019_Node000009" title=" " alt="" coords="625,860,672,906,704,930,741,948,794,965,844,977,890,982,933,981,973,971,1012,953,1051,925,1089,886,1102,866,1114,841,1135,776,1152,697,1165,611,1183,442,1191,323,1196,323,1188,443,1171,611,1157,698,1140,777,1119,843,1106,869,1093,889,1054,929,1015,958,975,976,933,986,889,988,843,982,793,970,739,952,702,934,668,910,621,863"/>
+<area shape="poly" id="edge42_Node000019_Node000011" title=" " alt="" coords="692,838,827,819,881,807,909,796,921,779,930,756,942,700,945,631,944,556,941,408,945,345,956,297,974,266,996,241,1000,245,979,270,961,299,950,346,946,408,950,556,951,631,947,700,935,758,926,781,912,800,883,812,827,824,693,843"/>
+<area shape="poly" id="edge36_Node000019_Node000016" title=" " alt="" coords="666,859,720,867,783,869,848,862,880,853,909,840,947,810,977,772,998,732,1013,697,1017,699,1003,734,981,775,951,814,912,844,882,858,849,867,783,875,719,872,665,864"/>
+<area shape="rect" id="Node000020" href="$_data_utils_8cpp.html#ac04816fd8a2c8091fffee79c585c2d7d" title="Get all records for a specific month across all years." alt="" coords="755,912,895,937"/>
+<area shape="poly" id="edge30_Node000019_Node000020" title=" " alt="" coords="649,859,777,905,775,910,647,864"/>
+<area shape="rect" id="Node000021" href="$class_menu.html#a48b1c6c942966a8372d43adb15b468ec" title="checks if records exist for a particular month/year or option." alt="" coords="770,711,881,736"/>
+<area shape="poly" id="edge33_Node000019_Node000021" title=" " alt="" coords="624,834,672,791,704,767,739,746,757,738,759,743,741,751,707,772,675,795,627,838"/>
+<area shape="rect" id="Node000022" href="$class_menu.html#aa6b74f07c2bb43f66547a431140f4b39" title="Prints the correlation result between two parameter vectors." alt="" coords="751,1013,900,1039"/>
+<area shape="poly" id="edge37_Node000019_Node000022" title=" " alt="" coords="623,860,669,922,703,959,742,992,767,1006,765,1011,738,996,699,963,664,926,618,863"/>
+<area shape="rect" id="Node000025" href="$class_file_handler.html#af4b28b75d363b146b4a125774f71f6be" title="Prompts the user for a month (1&#45;12), with validation." alt="" coords="740,760,911,785"/>
+<area shape="poly" id="edge41_Node000019_Node000025" title=" " alt="" coords="647,833,775,787,777,792,649,838"/>
+<area shape="poly" id="edge31_Node000020_Node000006" title=" " alt="" coords="866,909,969,876,971,881,867,915"/>
+<area shape="poly" id="edge34_Node000021_Node000009" title=" " alt="" coords="881,732,931,737,986,736,1041,723,1066,712,1089,696,1109,670,1127,629,1143,578,1157,522,1177,409,1189,323,1194,324,1183,410,1162,523,1148,580,1132,631,1114,672,1093,700,1069,716,1043,728,987,741,930,742,881,737"/>
+<area shape="poly" id="edge35_Node000021_Node000016" title=" " alt="" coords="876,708,960,686,962,691,877,713"/>
+<area shape="rect" id="Node000023" href="$_statistics_8h.html#adbe3dc908a20ded0f733c5dba7088850" title="Calculates Pearson correlation coefficient between two vectors." alt="" coords="991,1013,1059,1039"/>
+<area shape="poly" id="edge38_Node000022_Node000023" title=" " alt="" coords="900,1023,977,1023,977,1029,900,1029"/>
+<area shape="poly" id="edge39_Node000023_Node000009" title=" " alt="" coords="1058,1014,1075,1005,1089,992,1103,968,1115,937,1138,858,1155,763,1168,660,1185,461,1191,323,1197,323,1190,461,1174,660,1160,764,1143,859,1121,939,1107,971,1093,996,1078,1010,1060,1019"/>
+<area shape="rect" id="Node000024" href="$_statistics_8h.html#adc13bc610c4b7a9dbc938dcdc5bd54c0" title="Rounds a value to n decimal places." alt="" coords="1157,1013,1235,1039"/>
+<area shape="poly" id="edge40_Node000023_Node000024" title=" " alt="" coords="1059,1023,1143,1023,1143,1029,1059,1029"/>
+<area shape="poly" id="edge49_Node000026_Node000003" title=" " alt="" coords="632,481,680,512,741,545,759,552,757,557,739,550,677,517,629,485"/>
+<area shape="poly" id="edge45_Node000026_Node000005" title=" " alt="" coords="665,480,760,503,759,509,664,485"/>
+<area shape="poly" id="edge44_Node000026_Node000013" title=" " alt="" coords="615,456,666,320,702,243,721,213,738,192,747,186,750,190,742,196,725,216,707,245,671,322,620,458"/>
+<area shape="poly" id="edge47_Node000026_Node000015" title=" " alt="" coords="619,456,665,399,699,368,739,344,804,323,871,313,933,312,984,315,984,320,933,317,871,319,805,328,741,348,702,372,668,403,623,459"/>
+<area shape="poly" id="edge48_Node000026_Node000016" title=" " alt="" coords="689,457,741,455,799,459,858,472,912,496,951,528,981,569,1003,611,1017,646,1012,648,998,613,976,572,947,532,909,500,856,477,798,464,741,461,689,462"/>
+<area shape="poly" id="edge50_Node000026_Node000017" title=" " alt="" coords="639,455,786,385,788,390,641,460"/>
+<area shape="poly" id="edge46_Node000026_Node000021" title=" " alt="" coords="625,481,806,698,802,701,621,485"/>
+<area shape="poly" id="edge58_Node000027_Node000003" title=" " alt="" coords="665,607,757,585,758,590,667,612"/>
+<area shape="poly" id="edge53_Node000027_Node000005" title=" " alt="" coords="630,607,678,576,739,545,761,536,763,541,741,550,681,581,633,611"/>
+<area shape="poly" id="edge52_Node000027_Node000014" title=" " alt="" coords="620,608,653,559,690,494,705,453,713,420,721,386,738,345,771,287,804,240,808,243,775,290,742,347,726,388,718,421,710,455,694,496,658,562,624,611"/>
+<area shape="poly" id="edge55_Node000027_Node000015" title=" " alt="" coords="679,632,733,637,794,635,855,622,883,610,909,595,937,569,960,539,978,505,992,470,1010,402,1019,348,1024,349,1016,403,997,472,983,508,964,542,941,573,912,599,885,615,856,627,794,640,733,642,678,637"/>
+<area shape="poly" id="edge56_Node000027_Node000016" title=" " alt="" coords="688,631,740,638,945,662,945,667,740,643,688,636"/>
+<area shape="poly" id="edge59_Node000027_Node000017" title=" " alt="" coords="621,607,802,392,806,395,625,611"/>
+<area shape="poly" id="edge54_Node000027_Node000021" title=" " alt="" coords="635,632,741,689,776,703,774,708,739,694,633,637"/>
+<area shape="poly" id="edge57_Node000027_Node000025" title=" " alt="" coords="624,633,670,688,704,719,741,746,754,753,751,757,739,751,700,724,667,692,620,637"/>
+</map>

@@ -1,6 +1,0 @@
-<map id="FileHandler::promptYear" name="FileHandler::promptYear">
-<area shape="rect" id="node1" title="Prompts the user for a year, with validation." alt="" coords="220,56,383,83"/>
-<area shape="rect" id="node2" href="$class_menu.html#a993f96d2dc513adf706c5408699b5299" title="Handles user interaction and calls the writetofile operation." alt="" coords="5,5,172,32"/>
-<area shape="rect" id="node3" href="$class_menu.html#ac053cd333a41e222701c34085efcb09a" title="Displays temperature statistics for each month in a user&#45;specified year." alt="" coords="11,56,166,83"/>
-<area shape="rect" id="node4" href="$class_menu.html#a9754e55712f1e6d70925232c9fe843f4" title="Displays wind statistics (average and std dev) for user&#45;selected month/year." alt="" coords="12,107,165,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="WeatherEntry" name="WeatherEntry">
-<area shape="rect" id="node1" title="Holds one record of weather readings (from a single moment in time)." alt="" coords="61,263,177,369"/>
-<area shape="rect" id="node2" href="$class_my_time.html" title="Encapsulates a time as hour and minute." alt="" coords="5,27,108,178"/>
-<area shape="rect" id="node3" href="$class_date.html" title="Represents a calendar date (day/month/year)." alt="" coords="133,5,231,200"/>
-</map>

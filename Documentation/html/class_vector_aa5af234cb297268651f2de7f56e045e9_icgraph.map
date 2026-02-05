@@ -1,0 +1,7 @@
+<map id="Vector::Vector" name="Vector::Vector">
+<area shape="rect" id="Node000001" title="Creates an empty vector with space for at least n items." alt="" coords="176,31,283,56"/>
+<area shape="rect" id="Node000002" href="$class_vector.html#ab592a44e241c3641bbdb0e19b450d73c" title="Assignment operator — replaces what&#39;s inside with another vector&#39;s stuff." alt="" coords="5,5,128,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,36,128,30,129,25,163,30"/>
+<area shape="rect" id="Node000003" href="$class_vector.html#ad0ed347210040680329535d7e4d16ae1" title="Copy constructor — makes a new vector as a full copy of another." alt="" coords="13,55,120,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,56,121,62,120,57,162,51"/>
+</map>

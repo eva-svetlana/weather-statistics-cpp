@@ -1,0 +1,5 @@
+<map id="Date::GetDay" name="Date::GetDay">
+<area shape="rect" id="Node000001" title="Gets the day component." alt="" coords="200,5,301,31"/>
+<area shape="rect" id="Node000002" href="$class_file_handler.html#abeb27bc5fd60eb7a2501c26faab67617" title="Prints a Date to an output stream as day/month/year." alt="" coords="5,5,152,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,21,152,21,152,15,186,15"/>
+</map>

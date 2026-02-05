@@ -1,5 +1,0 @@
-<map id="MyTime::SetMinute" name="MyTime::SetMinute">
-<area shape="rect" id="node1" title="Sets the minute. Checks for valid range." alt="" coords="208,31,343,57"/>
-<area shape="rect" id="node2" href="$class_file_handler.html#a3399a01e214409bd2b33d5c50d678019" title="Parses a MyTime from a combined date&#45;time string." alt="" coords="5,5,160,32"/>
-<area shape="rect" id="node3" href="$class_file_handler.html#ac2abc2a96d4b1e7725b36ad122b535a0" title="Reads a MyTime (HH:MM) from an input stream." alt="" coords="9,56,157,83"/>
-</map>

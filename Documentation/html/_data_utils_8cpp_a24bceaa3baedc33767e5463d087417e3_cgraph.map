@@ -1,0 +1,9 @@
+<map id="extractTemperatures" name="extractTemperatures">
+<area shape="rect" id="Node000001" title="Extracts air temperatures from weather records." alt="" coords="5,31,147,56"/>
+<area shape="rect" id="Node000002" href="$class_vector.html#a0151d4cb23bc2c5474418beb125829ca" title="Gets how many actual items are stored in the vector right now." alt="" coords="201,5,315,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,31,186,25,187,31,147,36"/>
+<area shape="rect" id="Node000003" href="$class_vector.html#a4a5affb292fcde8043fda8955da8ae4d" title="Adds a new item to the end of the vector. resizes storage if needed." alt="" coords="195,55,321,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,50,182,55,181,60,146,55"/>
+<area shape="rect" id="Node000004" href="$class_vector.html#adb4ad00bb6e1c792390c16c4458e45e5" title="Doubles the vector&#39;s capacity when there isn&#39;t enough space." alt="" coords="369,55,472,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="322,65,356,65,356,70,322,70"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="FileHandler::readTime" name="FileHandler::readTime">
-<area shape="rect" id="node1" title="Reads a MyTime (HH:MM) from an input stream." alt="" coords="5,31,153,57"/>
-<area shape="rect" id="node2" href="$class_my_time.html#a508580f5bf8dffd14a526a1e5f942f33" title="Sets the hour. Checks for valid range." alt="" coords="207,5,330,32"/>
-<area shape="rect" id="node3" href="$class_my_time.html#a304b3506f3e1b6544b1bbd21b25b5eef" title="Sets the minute. Checks for valid range." alt="" coords="201,56,336,83"/>
-</map>

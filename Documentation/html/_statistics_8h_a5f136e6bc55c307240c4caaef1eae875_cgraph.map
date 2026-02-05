@@ -1,0 +1,5 @@
+<map id="mean" name="mean">
+<area shape="rect" id="Node000001" title="Finds the mean (average) of all the real (non&#45;NaN) values in your vector." alt="" coords="5,5,60,31"/>
+<area shape="rect" id="Node000002" href="$class_vector.html#a0151d4cb23bc2c5474418beb125829ca" title="Gets how many actual items are stored in the vector right now." alt="" coords="108,5,223,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,15,94,15,94,21,60,21"/>
+</map>

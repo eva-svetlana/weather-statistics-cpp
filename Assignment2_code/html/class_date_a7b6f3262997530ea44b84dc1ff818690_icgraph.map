@@ -1,5 +1,0 @@
-<map id="Date::SetDay" name="Date::SetDay">
-<area shape="rect" id="node1" title="Sets the day component. Range&#45;checked." alt="" coords="208,31,308,57"/>
-<area shape="rect" id="node2" href="$class_file_handler.html#a57019d5e0e1c3ecd8497be3336bcdaad" title="Parses a Date from a combined date&#45;time string." alt="" coords="5,5,160,32"/>
-<area shape="rect" id="node3" href="$class_file_handler.html#a899141975fc199961a5b99846dc3f896" title="Reads a Date from an input stream in day/month/year format." alt="" coords="9,56,156,83"/>
-</map>

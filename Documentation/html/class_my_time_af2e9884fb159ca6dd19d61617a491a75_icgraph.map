@@ -1,0 +1,5 @@
+<map id="MyTime::GetMinute" name="MyTime::GetMinute">
+<area shape="rect" id="Node000001" title="Gets the minute component." alt="" coords="201,5,337,31"/>
+<area shape="rect" id="Node000002" href="$class_file_handler.html#a8050a4ee41583c673de1da904187aa54" title="Prints a MyTime to an output stream as HH:MM." alt="" coords="5,5,153,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,21,154,21,154,15,187,15"/>
+</map>

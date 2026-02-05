@@ -1,0 +1,8 @@
+<map id="stdev" name="stdev">
+<area shape="rect" id="Node000001" title="Computes the sample standard deviation for your vector (skips NaN values)." alt="" coords="5,5,57,31"/>
+<area shape="rect" id="Node000002" href="$class_vector.html#a0151d4cb23bc2c5474418beb125829ca" title="Gets how many actual items are stored in the vector right now." alt="" coords="208,5,323,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,15,195,15,195,21,57,21"/>
+<area shape="rect" id="Node000003" href="$_statistics_8h.html#a5f136e6bc55c307240c4caaef1eae875" title="Finds the mean (average) of all the real (non&#45;NaN) values in your vector." alt="" coords="105,31,160,56"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="58,22,93,31,91,36,57,27"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="160,36,194,29,195,34,161,41"/>
+</map>

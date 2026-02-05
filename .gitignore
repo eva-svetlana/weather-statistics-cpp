@@ -7,7 +7,6 @@ bin/
 obj/
 
 # Executables
-*.exe
 *.dll
 
 # Archives
@@ -16,3 +15,7 @@ obj/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Ignore old Doxygen output
+Assignment2_code/html/
+
